@@ -1,4 +1,4 @@
-# gML for People Analytics
+# gml4people: Graph Machine Learning for People Analytics
 
 ## Objectives
 I aim to make everything here **TRUE**:
