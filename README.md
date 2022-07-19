@@ -1,14 +1,10 @@
 # gml4people: Graph Machine Learning for People Analytics
 
-## Objectives
-I aim to make everything here **TRUE**:
-- **E**xecutable with code, **E**xpandable within a graph
-- **U**nderstandable with *just enough* context and examples
-- **R**eusable and **R**eproducible with simple & clear API (e.g. in the form of Python function, class, package)
-- **T**ransferable and **T**ransformable to another domain and dimension, using best practices in graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
+## From Babysteps to Milestones
 
-## Milestones fr. Babysteps
-M1: Chatper1 Graph Everywhere
+TBD: to be replaced by interactive dashboard called `Dreams-made-True Roadmap` using e.g. plotly
+
+M1: Chatper1 Graph Everywhere (Where is yours?)
 
 M2: Chapter2 Working w. Graphs
 
@@ -30,6 +26,13 @@ M10: Casestudy: Twitter for Network Analysis
 
 M11: Adv. Graph Visualization using D3
 
+## Objectives
+I aim to make everything here **TRUE**:
+- **E**xecutable with code, **E**xpandable within a graph
+- **U**nderstandable with *just enough* context and examples
+- **R**eusable and **R**eproducible with simple & clear API (e.g. in the form of Python function, class, package)
+- **T**ransferable and **T**ransformable to another domain and dimension, using best practices in graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
+- 
 ### Also Checkout
 - [Awesome-deeplearning](https://github.com/wjlgatech/awesome-deeplearning)
 - [Awesome-Software-Engineering](https://github.com/wjlgatech/awesome-software-engineering)
