@@ -7,6 +7,29 @@ I aim to make everything here **TRUE**:
 - **R**eusable and **R**eproducible with simple & clear API (e.g. in the form of Python function, class, package)
 - **T**ransferable and **T**ransformable to another domain and dimension, using best practices in graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
 
+## Milestones fr. Babysteps
+M1: Chatper1 Graph Everywhere
+
+M2: Chapter2 Working w. Graphs
+
+M3: Chapter3 Visualizing Graphs
+
+M4: Chapter4 Restructuring Data for Graphs
+
+M5: Chapter5 Paths & Distance
+
+M6: Vetex Importance & Centrality
+
+M7: Components, Communities, Cliques
+
+M8: Assortativity & Similarity
+
+M9: Graph as DB
+
+M10: Casestudy: Twitter for Network Analysis
+
+M11: Adv. Graph Visualization using D3
+
 ### Also Checkout
 - [Awesome-deeplearning](https://github.com/wjlgatech/awesome-deeplearning)
 - [Awesome-Software-Engineering](https://github.com/wjlgatech/awesome-software-engineering)
